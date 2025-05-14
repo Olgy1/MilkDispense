@@ -30,12 +30,27 @@ You can download the mod on [CurseForge](https://legacy.curseforge.com/minecraft
 
 Set up a dispenser with an empty bucket facing a cow. When activated with redstone, it will collect milk from the cow.
 
-## 📖 License
+---
 
-This mod is open-source and distributed under the MIT license.  
-See the [LICENSE](./LICENSE.txt) file for more details.
+## 🛡️ License
 
-Note: Only the original template files from the [NeoForged MDK](https://github.com/NeoForged/MDK) are also covered by the MIT license under their original terms.
+This mod is licensed under **Creative Commons BY-NC-SA 4.0**.  
+You are free to:
+- Share it
+- Modify it
+
+**As long as you:**
+- Give credit (Christophe)
+- Do not use it for commercial purposes
+- Share any modifications under the same license
+
+🔗 [Read the full license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
+## 📫 Contact
+
+For any question, suggestion or bug report, please open an issue on the GitHub repository.
 
 ---
 
@@ -69,9 +84,24 @@ Tu peux télécharger le mod sur [CurseForge](https://legacy.curseforge.com/mine
 
 Place un distributeur avec un seau vide face à une vache. Lorsqu'il est activé avec de la redstone, il collectera automatiquement du lait.
 
-## 📖 Licence
+---
 
-Ce mod est open source et distribué sous la licence MIT.  
-Voir le fichier [LICENCE](./LICENSE.txt) pour plus d’informations.
+## 🛡️ Licence
 
-Remarque : seuls les fichiers de template originaux du [MDK de NeoForged](https://github.com/NeoForged/MDK) sont également couverts par la licence MIT selon leurs conditions d’origine.
+Ce mod est sous licence **Creative Commons BY-NC-SA 4.0**.  
+Vous pouvez :
+- Le partager
+- Le modifier
+
+**À condition de :**
+- Me créditer (Christophe)
+- Ne pas l’utiliser à des fins commerciales
+- Partager toute modification sous la même licence
+
+🔗 [Voir la licence complète](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
+
+---
+
+## 📫 Contact
+
+Pour toute question, suggestion ou bug, merci d’ouvrir une "issue" sur le dépôt GitHub.
