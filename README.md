@@ -18,7 +18,7 @@ Milk Dispense is a Minecraft mod for NeoForge that allows dispensers to use buck
 
 ### 📥 Download
 
-You can download the mod on [CurseForge](https://curseforge.com/)
+You can download the mod on [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/milkdispense).
 
 ### 📦 Installation
 
@@ -29,6 +29,13 @@ You can download the mod on [CurseForge](https://curseforge.com/)
 ### 💡 Usage Example
 
 Set up a dispenser with an empty bucket facing a cow. When activated with redstone, it will collect milk from the cow.
+
+## 📖 License
+
+This mod is open-source and distributed under the MIT license.  
+See the [LICENSE](./LICENSE.txt) file for more details.
+
+Note: Only the original template files from the [NeoForged MDK](https://github.com/NeoForged/MDK) are also covered by the MIT license under their original terms.
 
 ---
 
@@ -50,7 +57,7 @@ Milk Dispense est un mod Minecraft pour NeoForge qui permet aux distributeurs d'
 
 ### 📥 Téléchargement
 
-Tu peux télécharger le mod sur [CurseForge](https://curseforge.com/) *(lien vers la page du mod)*.
+Tu peux télécharger le mod sur [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/milkdispense).
 
 ### 📦 Installation
 
@@ -61,3 +68,10 @@ Tu peux télécharger le mod sur [CurseForge](https://curseforge.com/) *(lien ve
 ### 💡 Exemple d'utilisation
 
 Place un distributeur avec un seau vide face à une vache. Lorsqu'il est activé avec de la redstone, il collectera automatiquement du lait.
+
+## 📖 Licence
+
+Ce mod est open source et distribué sous la licence MIT.  
+Voir le fichier [LICENCE](./LICENSE.txt) pour plus d’informations.
+
+Remarque : seuls les fichiers de template originaux du [MDK de NeoForged](https://github.com/NeoForged/MDK) sont également couverts par la licence MIT selon leurs conditions d’origine.

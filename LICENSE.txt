@@ -2,10 +2,11 @@ MIT License
 
 Copyright (c) 2023 NeoForged project
 
-This license applies only to the template files as supplied by github.com/NeoForged/MDK.
+This license applies to the template files as supplied by github.com/NeoForged/MDK
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of these template files and associated documentation files (the "Software"), to deal
+of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
@@ -24,4 +25,5 @@ SOFTWARE.
 
 ---
 
-⚠️ The code of the Milk Dispense mod is not open-source and is not covered by this license.
+⚠️ This license applies only to the original template files provided by the NeoForged MDK (https://github.com/NeoForged/MDK).
+All other code and assets in this project are not covered by this license and remain the property of their respective authors.
