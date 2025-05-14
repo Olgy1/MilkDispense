@@ -40,7 +40,7 @@ You are free to:
 - Modify it
 
 **As long as you:**
-- Give credit (Christophe)
+- Give credit (Olgy_)
 - Do not use it for commercial purposes
 - Share any modifications under the same license
 
@@ -94,7 +94,7 @@ Vous pouvez :
 - Le modifier
 
 **À condition de :**
-- Me créditer (Christophe)
+- Me créditer (Olgy_)
 - Ne pas l’utiliser à des fins commerciales
 - Partager toute modification sous la même licence
 
