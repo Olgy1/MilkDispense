@@ -1,25 +1,63 @@
+# 🥛 Milk Dispense
 
-Installation information
-=======
+## 🇬🇧 English
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+Milk Dispense is a Minecraft mod for NeoForge that allows dispensers to use buckets on cows to automatically collect milk.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+### ✨ Features
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+- Dispensers can collect milk from cows using empty buckets
+- Fully compatible with redstone automation
+- Simplifies automatic cake farms and milk collection systems
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+### 🛠 Requirements
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+- Minecraft 1.21.5
+- Java 21
+- NeoForge 21.5.57 and more
+
+### 📥 Download
+
+You can download the mod on [CurseForge](https://curseforge.com/)
+
+### 📦 Installation
+
+1. Download the `.jar` file from CurseForge
+2. Place it in the `mods` folder of your Minecraft instance
+3. Launch the game with NeoForge
+
+### 💡 Usage Example
+
+Set up a dispenser with an empty bucket facing a cow. When activated with redstone, it will collect milk from the cow.
+
+---
+
+## 🇫🇷 Français
+
+Milk Dispense est un mod Minecraft pour NeoForge qui permet aux distributeurs d'utiliser des seaux sur les vaches pour collecter automatiquement du lait.
+
+### ✨ Fonctionnalités
+
+- Les distributeurs peuvent collecter du lait en utilisant un seau vide sur une vache
+- Entièrement compatible avec les systèmes automatisés en redstone
+- Idéal pour les fermes à gâteaux ou la collecte automatique de lait
+
+### 🛠 Prérequis
+
+- Minecraft 1.21.5
+- Java 21
+- NeoForge 21.5.57 et plus
+
+### 📥 Téléchargement
+
+Tu peux télécharger le mod sur [CurseForge](https://curseforge.com/) *(lien vers la page du mod)*.
+
+### 📦 Installation
+
+1. Télécharge le fichier `.jar` depuis CurseForge
+2. Place-le dans le dossier `mods` de ton instance Minecraft
+3. Lance le jeu avec NeoForge
+
+### 💡 Exemple d'utilisation
+
+Place un distributeur avec un seau vide face à une vache. Lorsqu'il est activé avec de la redstone, il collectera automatiquement du lait.
