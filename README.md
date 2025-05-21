@@ -18,7 +18,7 @@ Milk Dispense is a Minecraft mod for NeoForge that allows dispensers to use buck
 
 ### 📥 Download
 
-You can download the mod on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/milkdispense).
+You can download the mod on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/milkdispense) and [Modrinth](https://modrinth.com/mod/milkdispense)
 
 ### 📦 Installation
 
@@ -72,7 +72,7 @@ Milk Dispense est un mod Minecraft pour NeoForge qui permet aux distributeurs d'
 
 ### 📥 Téléchargement
 
-Tu peux télécharger le mod sur [CurseForge](https://www.curseforge.com/minecraft/mc-mods/milkdispense).
+Tu peux télécharger le mod sur [CurseForge](https://www.curseforge.com/minecraft/mc-mods/milkdispense) et [Modrinth](https://modrinth.com/mod/milkdispense)
 
 ### 📦 Installation
 
